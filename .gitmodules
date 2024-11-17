@@ -1,0 +1,6 @@
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/RomRakharb/rustlings
+[submodule "leetcode75"]
+	path = leetcode75
+	url = https://github.com/RomRakharb/leetcode75
